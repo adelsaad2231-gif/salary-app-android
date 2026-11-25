@@ -4,10 +4,10 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path
-        android:fillColor="#1565c0"
-        android:pathData="M0,0h108v108h-108z" />
-    <path
-        android:fillColor="#ffffff"
-        android:pathData="M34,30h40v8h-40zM34,50h40v8h-40zM34,70h24v8h-24z" />
+    <path android:fillColor="#0A2A5C" android:pathData="M30,8h48a22,22 0 0 1 22,22v48a22,22 0 0 1 -22,22h-48a22,22 0 0 1 -22,-22v-48a22,22 0 0 1 22,-22z" />
+    <group android:scaleX="1.1" android:scaleY="1.1" android:pivotX="54" android:pivotY="54">
+        <path android:pathData="M54,32a22,22 0 1,1 0,44a22,22 0 1,1 0,-44" android:strokeColor="#1E3A66" android:strokeWidth="9" />
+        <path android:pathData="M54,32A22,22 0 1 1 34.06,63.3" android:strokeColor="#42A5F5" android:strokeWidth="9" android:strokeLineCap="round" />
+        <path android:fillColor="#FFFFFF" android:pathData="M56.03 56H58.8V58.77H56.03ZM62.41 48.77Q56.21 48.41 52.6 51.32Q48.85 54.34 48.85 58.03Q48.85 60.27 50.75 62.23Q52.42 63.94 56.8 63.94Q62.37 63.94 66.18 61.11V66.19Q63.15 68.67 56.9 68.67Q48.81 68.65 45.11 64.99Q42.22 62.14 42.22 58.03Q42.22 54.72 44.81 51.56Q46.7 49.25 50.36 47.8Q48.81 47.75 46.07 48.12Q43.58 48.47 41.82 49.23V44.49Q46.83 43.33 50.53 43.33Q57.04 43.33 62.41 44.03Z" />
+    </group>
 </vector>
